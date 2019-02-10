@@ -1,0 +1,7 @@
+{
+    "application_port" : "9000",
+    "mongoConnection" :{
+        "mongoUrl" : "mongodb://oathkeeper:oathkeeper123@ds115244.mlab.com:15244/resturants",
+        "mongoCollections" : ["resturant","resturant_inspections","users"]
+    }
+}
